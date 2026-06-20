@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crucible"
+  short_description: "Independent local/external review panels"
+  default_prompt: "Use $crucible to run a focused independent review panel before a risky plan or change."
